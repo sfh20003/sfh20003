@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! I'm Faizan Hussain🚗
 
-<!--
-**sfh20003/sfh20003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me 🎓
+  I am Faizan a full-time graduate student at Uconn majoring in business data analytics and project management. I have experience I also help out at my family's watch business in which we service and sell watches and currently working on a website. 
+- Program: MSBAPM @ Uconn Stamford
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Skills that I am working on 💻:
+    - Improving python skills 
+    - Analytical skills
+    - Microsoft suite
+    - Data Visualization
+- I also like cars 🚙 and watches ⌚️
+-->  I play Pickleball 🥒 (I'm not any good)
